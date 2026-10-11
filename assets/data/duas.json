@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1,
+    "bn": "ঘুমানোর আগের দোয়া",
+    "en": "Dua before sleeping",
+    "kw": "ghumanor ghumate ghum rat sleep sleeping night bed ঘুম রাত",
+    "ar": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+    "bnM": "হে আল্লাহ! আপনার নামেই আমি মরি (ঘুমাই) ও বাঁচি (জাগি)।",
+    "enM": "O Allah, in Your name I die and I live.",
+    "src": "Sahih Bukhari 6324",
+    "ref": [
+      [
+        2,
+        255,
+        255
+      ],
+      [
+        2,
+        285,
+        286
+      ],
+      [
+        112,
+        1,
+        4
+      ],
+      [
+        113,
+        1,
+        5
+      ],
+      [
+        114,
+        1,
+        6
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "bn": "ঘুম থেকে উঠার দোয়া",
+    "en": "Dua after waking up",
+    "kw": "ghum theke uthe sokale uthe uthar wake morning সকাল ঘুম",
+    "ar": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+    "bnM": "সকল প্রশংসা আল্লাহর, যিনি আমাদের মৃত্যুর (ঘুমের) পর জীবিত করেছেন এবং তাঁর কাছেই পুনরুত্থান।",
+    "enM": "All praise is for Allah who gave us life after causing us to die, and to Him is the resurrection.",
+    "src": "Sahih Bukhari 6312"
+  },
+  {
+    "id": 3,
+    "bn": "টয়লেটে প্রবেশের দোয়া",
+    "en": "Dua before entering the toilet",
+    "kw": "washroom bathroom toilet bathroom dhukar dhukar age ঢুকার বাথরুম টয়লেট",
+    "ar": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+    "bnM": "হে আল্লাহ! আমি আপনার কাছে অপবিত্র জিন (নর-নারী) থেকে আশ্রয় চাই।",
+    "enM": "O Allah, I seek refuge in You from male and female evil spirits.",
+    "src": "Sahih Bukhari 142, Sahih Muslim 375"
+  },
+  {
+    "id": 4,
+    "bn": "টয়লেট থেকে বের হওয়ার দোয়া",
+    "en": "Dua after leaving the toilet",
+    "kw": "washroom bathroom toilet ber hoar ber howar por bahir বের হওয়ার বাথরুম টয়লেট",
+    "ar": "غُفْرَانَكَ",
+    "bnM": "হে আল্লাহ! আমি আপনার ক্ষমা প্রার্থনা করি।",
+    "enM": "I seek Your forgiveness.",
+    "src": "Sunan Abu Dawud 30, Jami at-Tirmidhi 7"
+  },
+  {
+    "id": 5,
+    "bn": "মসজিদে প্রবেশের দোয়া",
+    "en": "Dua when entering the mosque",
+    "kw": "mosjid masjid mosque dhukar dhukar dua ঢুকার মসজিদ",
+    "ar": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+    "bnM": "হে আল্লাহ! আমার জন্য আপনার রহমতের দরজাসমূহ খুলে দিন।",
+    "enM": "O Allah, open for me the doors of Your mercy.",
+    "src": "Sahih Muslim 713"
+  },
+  {
+    "id": 6,
+    "bn": "মসজিদ থেকে বের হওয়ার দোয়া",
+    "en": "Dua when leaving the mosque",
+    "kw": "mosjid masjid mosque ber hoar bahir বের হওয়ার মসজিদ",
+    "ar": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+    "bnM": "হে আল্লাহ! আমি আপনার অনুগ্রহ প্রার্থনা করি।",
+    "enM": "O Allah, I ask You of Your bounty.",
+    "src": "Sahih Muslim 713"
+  },
+  {
+    "id": 7,
+    "bn": "খাওয়ার আগের দোয়া",
+    "en": "Dua before eating",
+    "kw": "khabar khawar khaoar age food eat eating খাওয়া খাবার",
+    "ar": "بِسْمِ اللَّهِ",
+    "bnM": "আল্লাহর নামে (শুরু করছি)।",
+    "enM": "In the name of Allah.",
+    "src": "Sunan Abu Dawud 3767, Jami at-Tirmidhi 1858"
+  },
+  {
+    "id": 8,
+    "bn": "খাওয়ার পরের দোয়া",
+    "en": "Dua after eating",
+    "kw": "khabar khawar khaoar por food eat eating খাওয়া খাবার",
+    "ar": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي هَذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ",
+    "bnM": "সকল প্রশংসা আল্লাহর, যিনি আমাকে এটি খাওয়ালেন এবং আমার কোনো শক্তি ও সামর্থ্য ছাড়াই রিযিক দিলেন।",
+    "enM": "All praise is for Allah who fed me this and provided it for me without any might or power from me.",
+    "src": "Sunan Abu Dawud 4023, Jami at-Tirmidhi 3458"
+  },
+  {
+    "id": 9,
+    "bn": "বাড়ি থেকে বের হওয়ার দোয়া",
+    "en": "Dua when leaving home",
+    "kw": "bari home ghor ber hoar bahir leave leaving বাড়ি ঘর বের",
+    "ar": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+    "bnM": "আল্লাহর নামে (বের হচ্ছি), আল্লাহর ওপর ভরসা করলাম; আল্লাহ ছাড়া কোনো শক্তি ও সামর্থ্য নেই।",
+    "enM": "In the name of Allah, I place my trust in Allah; there is no might or power except with Allah.",
+    "src": "Sunan Abu Dawud 5095, Jami at-Tirmidhi 3426"
+  },
+  {
+    "id": 10,
+    "bn": "বাড়িতে প্রবেশের দোয়া",
+    "en": "Dua when entering home",
+    "kw": "bari home ghor dhukar dhukar enter entering বাড়ি ঘর ঢুকার",
+    "ar": "بِسْمِ اللَّهِ وَلَجْنَا وَبِسْمِ اللَّهِ خَرَجْنَا وَعَلَى رَبِّنَا تَوَكَّلْنَا",
+    "bnM": "আল্লাহর নামে আমরা প্রবেশ করলাম, আল্লাহর নামে বের হলাম এবং আমাদের রবের ওপর ভরসা করলাম।",
+    "enM": "In the name of Allah we enter, in the name of Allah we leave, and upon our Lord we place our trust.",
+    "src": "Sunan Abu Dawud 5096"
+  },
+  {
+    "id": 11,
+    "bn": "পরীক্ষায় যাওয়ার দোয়া (কুরআনের দোয়া)",
+    "en": "Dua for exams / knowledge (Quranic duas)",
+    "kw": "exam porikkha poriksha pariksha study read porashona knowledge ilm পরীক্ষা পড়া ইলম",
+    "ar": "",
+    "bnM": "পরীক্ষার জন্য নির্দিষ্ট কোনো সহিহ হাদিস নেই; নিচের কুরআনের দোয়াগুলো ইলম ও সহজতার জন্য পড়া হয়।",
+    "enM": "There is no specific authentic hadith dua for exams; these Quranic duas are commonly recited for knowledge and ease.",
+    "src": "Quran 20:114, 20:25-28",
+    "ref": [
+      [
+        20,
+        114,
+        114
+      ],
+      [
+        20,
+        25,
+        28
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "bn": "সফরের দোয়া",
+    "en": "Dua for travel",
+    "kw": "safor sofor travel journey gari vehicle jatra সফর যাত্রা গাড়ি",
+    "ar": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ",
+    "bnM": "পবিত্র তিনি, যিনি এটিকে আমাদের বশীভূত করেছেন, অথচ আমরা একে বশে আনতে সক্ষম ছিলাম না; আর আমরা অবশ্যই আমাদের রবের কাছে ফিরে যাব।",
+    "enM": "Glory to Him who subjected this to us, and we could not have it by ourselves; and indeed to our Lord we will return.",
+    "src": "Quran 43:13-14, Sahih Muslim 1342"
+  },
+  {
+    "id": 13,
+    "bn": "ওযুর পরের দোয়া",
+    "en": "Dua after wudu",
+    "kw": "ozu wudu oju ujur por ওযু ওজু",
+    "ar": "أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+    "bnM": "আমি সাক্ষ্য দিচ্ছি আল্লাহ ছাড়া কোনো ইলাহ নেই, তিনি একক, তাঁর কোনো শরিক নেই; এবং সাক্ষ্য দিচ্ছি মুহাম্মদ ﷺ তাঁর বান্দা ও রাসূল।",
+    "enM": "I bear witness that there is no god but Allah alone, with no partner, and that Muhammad is His servant and Messenger.",
+    "src": "Sahih Muslim 234"
+  },
+  {
+    "id": 14,
+    "bn": "দুনিয়া ও আখিরাতের কল্যাণের দোয়া",
+    "en": "Dua for good in this life and the next",
+    "kw": "rabbana atina dunia akhirat hasanah দুনিয়া আখিরাত কল্যাণ",
+    "ar": "",
+    "bnM": "কুরআনের সবচেয়ে বেশি পঠিত দোয়াগুলোর একটি।",
+    "enM": "One of the most recited duas of the Quran.",
+    "src": "Quran 2:201, Sahih Bukhari 4522",
+    "ref": [
+      [
+        2,
+        201,
+        201
+      ]
+    ]
+  }
+]

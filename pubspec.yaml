@@ -1,0 +1,27 @@
+name: noor_ai
+description: Premium Islamic companion with offline Quran, duas, prayer times and AI assistant.
+publish_to: "none"
+version: 1.2.0+3
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  http: ^1.2.2
+  shared_preferences: ^2.3.2
+  intl: ^0.19.0
+  adhan: ^2.0.0
+  image_picker: ^1.1.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/quran.json
+    - assets/data/duas.json
+    - assets/data/adhkar.json
+    - assets/data/guide.json
+    - assets/data/titles.json

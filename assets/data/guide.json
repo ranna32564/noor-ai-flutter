@@ -1,0 +1,479 @@
+{
+  "HALAL": {
+    "foodHalal": [
+      {
+        "bn": "সব পবিত্র ও ভালো (তাইয়্যিব) খাবার",
+        "en": "All pure and good (tayyib) food",
+        "ref": [
+          [
+            2,
+            168,
+            168
+          ],
+          [
+            5,
+            4,
+            4
+          ]
+        ]
+      },
+      {
+        "bn": "গবাদি পশু (গরু, ছাগল, ভেড়া, উট) ইসলামি নিয়মে যবেহ করা হলে",
+        "en": "Livestock (cattle, goats, sheep, camels) slaughtered the Islamic way, with Allah's name",
+        "ref": [
+          [
+            5,
+            1,
+            1
+          ],
+          [
+            16,
+            5,
+            5
+          ],
+          [
+            6,
+            118,
+            118
+          ]
+        ]
+      },
+      {
+        "bn": "সামুদ্রিক শিকার ও মাছ (চিংড়ি, কাঁকড়া ইত্যাদিতে মাযহাবভেদে মতভেদ আছে, স্থানীয় আলেমকে জিজ্ঞেস করুন)",
+        "en": "Seafood and fish (shrimp/crab: schools differ, ask a local scholar)",
+        "ref": [
+          [
+            5,
+            96,
+            96
+          ]
+        ]
+      },
+      {
+        "bn": "দুধ, মধু, ফলমূল, শাকসবজি, শস্য",
+        "en": "Milk, honey, fruits, vegetables, grains",
+        "ref": [
+          [
+            16,
+            66,
+            69
+          ]
+        ]
+      },
+      {
+        "bn": "হালাল পাখি (মুরগি, হাঁস, কবুতর) যবেহ করা হলে",
+        "en": "Halal birds (chicken, duck, pigeon) properly slaughtered"
+      }
+    ],
+    "foodHaram": [
+      {
+        "bn": "মৃত পশু, প্রবাহিত রক্ত, শূকরের মাংস এবং আল্লাহ ছাড়া অন্যের নামে যবেহ করা পশু",
+        "en": "Carrion, flowing blood, pork, and what is slaughtered in other than Allah's name",
+        "ref": [
+          [
+            2,
+            173,
+            173
+          ],
+          [
+            5,
+            3,
+            3
+          ],
+          [
+            6,
+            145,
+            145
+          ]
+        ]
+      },
+      {
+        "bn": "শ্বাসরোধে মারা, আঘাতে মারা, উঁচু থেকে পড়ে মারা, শিং এর আঘাতে মারা পশু (যবেহ করার আগে মারা গেলে)",
+        "en": "Animals strangled, beaten, fallen, or gored to death (if not slaughtered while alive)",
+        "ref": [
+          [
+            5,
+            3,
+            3
+          ]
+        ]
+      },
+      {
+        "bn": "মদ ও সব নেশাজাত দ্রব্য",
+        "en": "Alcohol and all intoxicants",
+        "ref": [
+          [
+            5,
+            90,
+            91
+          ]
+        ]
+      },
+      {
+        "bn": "হিংস্র দাঁতওয়ালা পশু ও থাবাওয়ালা শিকারি পাখি (হাদিসে নিষেধ: সহিহ মুসলিম, শিকার অধ্যায়)",
+        "en": "Fanged predators and birds of prey with talons (hadith: Sahih Muslim, Book of Hunting)"
+      },
+      {
+        "bn": "অন্যায়ভাবে অর্জিত বা চুরি, ঘুষ, সুদ ও এতিমের সম্পদ থেকে আসা খাবার",
+        "en": "Food bought with stolen, bribed, interest-based or orphans' wealth",
+        "ref": [
+          [
+            2,
+            188,
+            188
+          ],
+          [
+            4,
+            10,
+            10
+          ]
+        ]
+      }
+    ],
+    "actHalal": [
+      {
+        "bn": "সৎ ব্যবসা ও হালাল উপার্জন",
+        "en": "Honest trade and lawful earning",
+        "ref": [
+          [
+            2,
+            275,
+            275
+          ],
+          [
+            4,
+            29,
+            29
+          ]
+        ]
+      },
+      {
+        "bn": "বিবাহ",
+        "en": "Marriage",
+        "ref": [
+          [
+            4,
+            3,
+            3
+          ],
+          [
+            30,
+            21,
+            21
+          ]
+        ]
+      },
+      {
+        "bn": "পিতামাতার সাথে সদ্ব্যবহার",
+        "en": "Kindness to parents",
+        "ref": [
+          [
+            17,
+            23,
+            24
+          ]
+        ]
+      },
+      {
+        "bn": "দান-সদকা",
+        "en": "Charity",
+        "ref": [
+          [
+            2,
+            261,
+            261
+          ]
+        ]
+      },
+      {
+        "bn": "সত্যবাদিতা ও সত্যবাদীদের সঙ্গ",
+        "en": "Truthfulness and keeping company with the truthful",
+        "ref": [
+          [
+            9,
+            119,
+            119
+          ]
+        ]
+      },
+      {
+        "bn": "তওবা করা",
+        "en": "Repentance",
+        "ref": [
+          [
+            66,
+            8,
+            8
+          ]
+        ]
+      }
+    ],
+    "actHaram": [
+      {
+        "bn": "আল্লাহর সাথে শিরক করা",
+        "en": "Associating partners with Allah (shirk)",
+        "ref": [
+          [
+            4,
+            48,
+            48
+          ]
+        ]
+      },
+      {
+        "bn": "অন্যায়ভাবে হত্যা",
+        "en": "Unjust killing",
+        "ref": [
+          [
+            17,
+            33,
+            33
+          ]
+        ]
+      },
+      {
+        "bn": "যিনা-ব্যভিচার ও এর কাছেও যাওয়া",
+        "en": "Zina (and approaching it)",
+        "ref": [
+          [
+            17,
+            32,
+            32
+          ]
+        ]
+      },
+      {
+        "bn": "সুদ",
+        "en": "Riba (interest)",
+        "ref": [
+          [
+            2,
+            275,
+            278
+          ]
+        ]
+      },
+      {
+        "bn": "চুরি",
+        "en": "Theft",
+        "ref": [
+          [
+            5,
+            38,
+            38
+          ]
+        ]
+      },
+      {
+        "bn": "মিথ্যা বলা ও মিথ্যা সাক্ষ্য",
+        "en": "Lying and false testimony",
+        "ref": [
+          [
+            22,
+            30,
+            30
+          ]
+        ]
+      },
+      {
+        "bn": "গীবত, অন্যের দোষ খোঁজা ও কুধারণা",
+        "en": "Backbiting, spying and ill-suspicion",
+        "ref": [
+          [
+            49,
+            12,
+            12
+          ]
+        ]
+      },
+      {
+        "bn": "জুয়া ও মদ",
+        "en": "Gambling and intoxicants",
+        "ref": [
+          [
+            5,
+            90,
+            91
+          ]
+        ]
+      },
+      {
+        "bn": "পিতামাতার অবাধ্যতা",
+        "en": "Disobeying parents",
+        "ref": [
+          [
+            17,
+            23,
+            23
+          ]
+        ]
+      },
+      {
+        "bn": "এতিমের সম্পদ আত্মসাৎ",
+        "en": "Devouring an orphan's wealth",
+        "ref": [
+          [
+            4,
+            10,
+            10
+          ]
+        ]
+      },
+      {
+        "bn": "ঘুষ ও অন্যায়ভাবে মানুষের সম্পদ খাওয়া",
+        "en": "Bribery and wrongfully consuming people's wealth",
+        "ref": [
+          [
+            2,
+            188,
+            188
+          ]
+        ]
+      },
+      {
+        "bn": "আত্মহত্যা",
+        "en": "Suicide",
+        "ref": [
+          [
+            4,
+            29,
+            29
+          ]
+        ]
+      },
+      {
+        "bn": "ঠাট্টা-বিদ্রূপ ও খারাপ নামে ডাকা",
+        "en": "Mocking and insulting nicknames",
+        "ref": [
+          [
+            49,
+            11,
+            11
+          ]
+        ]
+      },
+      {
+        "bn": "অহংকার",
+        "en": "Arrogance",
+        "ref": [
+          [
+            31,
+            18,
+            18
+          ]
+        ]
+      },
+      {
+        "bn": "ব্যবসায় প্রতারণা (সহিহ মুসলিম ১০২: যে প্রতারণা করে সে আমাদের দলভুক্ত নয়)",
+        "en": "Cheating in trade (Sahih Muslim 102)"
+      }
+    ]
+  },
+  "AMOLS": [
+    {
+      "bn": "বেশি বেশি ইসতিগফার (রিযিক ও বরকতের জন্য)",
+      "en": "Frequent istighfar (for provision and blessing)",
+      "ref": [
+        [
+          71,
+          10,
+          12
+        ]
+      ]
+    },
+    {
+      "bn": "কৃতজ্ঞতা (শুকরিয়া)",
+      "en": "Gratitude",
+      "ref": [
+        [
+          14,
+          7,
+          7
+        ]
+      ]
+    },
+    {
+      "bn": "তাকওয়া ও আল্লাহর ওপর ভরসা",
+      "en": "Taqwa and trust in Allah",
+      "ref": [
+        [
+          65,
+          2,
+          3
+        ]
+      ]
+    },
+    {
+      "bn": "আল্লাহর যিকির: অন্তর প্রশান্ত হয়",
+      "en": "Dhikr: hearts find peace",
+      "ref": [
+        [
+          13,
+          28,
+          28
+        ]
+      ]
+    },
+    {
+      "bn": "ধৈর্য ও নামাজের মাধ্যমে সাহায্য চাওয়া",
+      "en": "Patience and prayer",
+      "ref": [
+        [
+          2,
+          153,
+          153
+        ]
+      ]
+    },
+    {
+      "bn": "আত্মীয়তার সম্পর্ক রক্ষা: রিযিক বাড়ে ও আয়ু বরকতময় হয় (সহিহ বুখারি ৫৯৮৫)",
+      "en": "Keeping family ties: provision and lifespan are blessed (Sahih Bukhari 5985)"
+    }
+  ],
+  "FAQ": [
+    {
+      "bn": "খাওয়ার দোয়া",
+      "en": "Eating dua",
+      "cat": [
+        69,
+        70
+      ]
+    },
+    {
+      "bn": "রুকু ও সিজদায় কী বলবে",
+      "en": "What to say in ruku and sujood",
+      "cat": [
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "bn": "রোগ ও ব্যথার দোয়া",
+      "en": "Dua for sickness and pain",
+      "cat": [
+        49,
+        51,
+        124
+      ]
+    },
+    {
+      "bn": "গলায় খাবার/কাঁটা আটকালে",
+      "en": "Food or bone stuck in the throat",
+      "cat": [],
+      "nbn": "কুরআন-সুন্নাহে এর জন্য আলাদা কোনো সহিহ নির্দিষ্ট দোয়া পাওয়া যায় না। আগে দ্রুত চিকিৎসা/প্রাথমিক সাহায্য নিন, সাথে সাধারণ দোয়া ও আল্লাহর কাছে সাহায্য চাওয়া যায়। প্রচলিত 'বিশেষ দোয়া'গুলোর সহিহ সনদ আমি পাইনি, তাই দিচ্ছি না।",
+      "nen": "There is no specific authentic dua from the Quran or Sunnah for this. Get first aid/medical help immediately; you may also ask Allah in general words. I did not find authentic chains for the 'special duas' that circulate, so I do not include them."
+    },
+    {
+      "bn": "জ্বরের দোয়া ও আমল",
+      "en": "Fever: dua and amal",
+      "cat": [
+        49,
+        124
+      ],
+      "nbn": "জ্বরের জন্য নির্দিষ্ট সহিহ দোয়া পাওয়া যায় না। রোগীর জন্য সাধারণ দোয়া, সূরা ফাতিহা ও তিন কুল পড়ে ঝাড়ফুঁক (সহিহ বুখারি ৫০১৬) এবং অবশ্যই ডাক্তার/চিকিৎসা।",
+      "nen": "No specific authentic dua exists for fever. Use the general dua for the sick, Al-Fatiha and the three Quls as ruqyah (Sahih Bukhari 5016), and see a doctor."
+    }
+  ]
+}

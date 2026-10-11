@@ -1,0 +1,18 @@
+NOOR AI — APK বানানোর দ্রুত নিয়ম (Windows + VS Code)
+
+১) ZIP extract করুন।
+২) VS Code-এ noor_ai_flutter folder খুলুন।
+৩) Flutter SDK ও Android Studio/Android SDK ইনস্টল করে `flutter doctor`-এ Android toolchain ঠিক করুন।
+৪) `build_apk.bat`-এ double-click করুন, অথবা VS Code terminal থেকে চালান:
+   flutter create --platforms=android --project-name noor_ai .
+   flutter pub get
+   flutter build apk --release
+
+APK তৈরি হলে পাবেন:
+build\app\outputs\flutter-apk\app-release.apk
+
+মনে রাখবেন:
+- এই source ZIP-এ আগে Android platform/Gradle wrapper ছিল না; build script সেটি তৈরি করবে।
+- প্রথমবার internet প্রয়োজন, কারণ Flutter packages ও Android build dependencies download হবে।
+- APK build করতে Windows PC-তে Flutter SDK, Android SDK এবং Java/Android Studio setup থাকা চাই।
+- API key app-এর Settings-এ দিলে personal testing করা যাবে; public release-এর জন্য backend setup দরকার।

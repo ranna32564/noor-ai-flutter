@@ -1,0 +1,530 @@
+[
+  {
+    "en": "Morning & evening adhkar",
+    "bn": "সকাল-সন্ধ্যার যিকির"
+  },
+  {
+    "en": "Before sleeping",
+    "bn": "ঘুমানোর আগের দোয়া"
+  },
+  {
+    "en": "Upon waking",
+    "bn": "ঘুম থেকে উঠার দোয়া"
+  },
+  {
+    "en": "Entering the toilet",
+    "bn": "টয়লেটে প্রবেশের দোয়া"
+  },
+  {
+    "en": "Leaving the toilet",
+    "bn": "টয়লেট থেকে বের হওয়ার দোয়া"
+  },
+  {
+    "en": "Before wudu",
+    "bn": "ওযুর আগের দোয়া"
+  },
+  {
+    "en": "After wudu",
+    "bn": "ওযুর পরের দোয়া"
+  },
+  {
+    "en": "Leaving home",
+    "bn": "ঘর থেকে বের হওয়ার দোয়া"
+  },
+  {
+    "en": "Entering home",
+    "bn": "ঘরে প্রবেশের দোয়া"
+  },
+  {
+    "en": "Going to the mosque",
+    "bn": "মসজিদে যাওয়ার দোয়া"
+  },
+  {
+    "en": "Entering the mosque",
+    "bn": "মসজিদে প্রবেশের দোয়া"
+  },
+  {
+    "en": "Leaving the mosque",
+    "bn": "মসজিদ থেকে বের হওয়ার দোয়া"
+  },
+  {
+    "en": "Adhan responses",
+    "bn": "আযানের জবাব ও দোয়া"
+  },
+  {
+    "en": "Wearing clothes",
+    "bn": "কাপড় পরার দোয়া"
+  },
+  {
+    "en": "Wearing new clothes",
+    "bn": "নতুন কাপড় পরার দোয়া"
+  },
+  {
+    "en": "Dua for one wearing new clothes",
+    "bn": "নতুন কাপড় পরিহিতের জন্য দোয়া"
+  },
+  {
+    "en": "Taking off clothes",
+    "bn": "কাপড় খোলার সময় যা বলবে"
+  },
+  {
+    "en": "Opening dua of prayer (Thana)",
+    "bn": "নামাজের সানা (শুরুর দোয়া)"
+  },
+  {
+    "en": "In ruku",
+    "bn": "রুকুর দোয়া"
+  },
+  {
+    "en": "Rising from ruku",
+    "bn": "রুকু থেকে ওঠার দোয়া"
+  },
+  {
+    "en": "In sujood",
+    "bn": "সিজদার দোয়া"
+  },
+  {
+    "en": "Between two sujood",
+    "bn": "দুই সিজদার মাঝের দোয়া"
+  },
+  {
+    "en": "Sujood of recitation (tilawah)",
+    "bn": "তিলাওয়াতের সিজদার দোয়া"
+  },
+  {
+    "en": "Tashahhud",
+    "bn": "তাশাহহুদ"
+  },
+  {
+    "en": "Salawat after tashahhud",
+    "bn": "তাশাহহুদের পর দরূদ"
+  },
+  {
+    "en": "Dua before salam",
+    "bn": "সালামের আগের দোয়া"
+  },
+  {
+    "en": "Adhkar after salah",
+    "bn": "নামাজের সালামের পর যিকির"
+  },
+  {
+    "en": "Istikhara prayer",
+    "bn": "ইসতিখারার দোয়া"
+  },
+  {
+    "en": "Turning at night in bed",
+    "bn": "রাতে পাশ ফেরার সময় দোয়া"
+  },
+  {
+    "en": "Fear/loneliness in sleep",
+    "bn": "ঘুমে ভয় বা একাকিত্বের দোয়া"
+  },
+  {
+    "en": "After a dream or nightmare",
+    "bn": "ভালো বা খারাপ স্বপ্ন দেখলে"
+  },
+  {
+    "en": "Qunoot of Witr",
+    "bn": "বিতরের দোয়া কুনূত"
+  },
+  {
+    "en": "After Witr salam",
+    "bn": "বিতরের সালামের পর যিকির"
+  },
+  {
+    "en": "Anxiety and sorrow",
+    "bn": "দুশ্চিন্তা ও দুঃখের দোয়া"
+  },
+  {
+    "en": "Distress",
+    "bn": "বিপদ ও কষ্টের দোয়া"
+  },
+  {
+    "en": "Meeting enemy/ruler",
+    "bn": "শত্রু বা শাসকের মুখোমুখি হলে"
+  },
+  {
+    "en": "Fear of a ruler's oppression",
+    "bn": "শাসকের জুলুমের ভয়ে"
+  },
+  {
+    "en": "Against the enemy",
+    "bn": "শত্রুর বিরুদ্ধে দোয়া"
+  },
+  {
+    "en": "Fearing a people",
+    "bn": "কোনো সম্প্রদায়কে ভয় পেলে"
+  },
+  {
+    "en": "Doubts in faith",
+    "bn": "ঈমানে ওয়াসওয়াসা হলে"
+  },
+  {
+    "en": "Settling debt",
+    "bn": "ঋণ পরিশোধের দোয়া"
+  },
+  {
+    "en": "Whispers in prayer/recitation",
+    "bn": "নামাজ ও তিলাওয়াতে ওয়াসওয়াসা হলে"
+  },
+  {
+    "en": "When something is difficult",
+    "bn": "কোনো কাজ কঠিন মনে হলে"
+  },
+  {
+    "en": "After committing a sin",
+    "bn": "গুনাহ করে ফেললে"
+  },
+  {
+    "en": "Repelling Shaytan",
+    "bn": "শয়তান তাড়ানোর দোয়া"
+  },
+  {
+    "en": "When something undesired happens",
+    "bn": "অপছন্দনীয় কিছু ঘটলে"
+  },
+  {
+    "en": "Congratulating on a newborn",
+    "bn": "নবজাতকের জন্য অভিনন্দন ও জবাব"
+  },
+  {
+    "en": "Protecting children",
+    "bn": "সন্তানদের জন্য আশ্রয় প্রার্থনা"
+  },
+  {
+    "en": "Visiting the sick",
+    "bn": "রোগী দেখতে গিয়ে দোয়া"
+  },
+  {
+    "en": "Virtue of visiting the sick",
+    "bn": "রোগী দেখার ফযিলত"
+  },
+  {
+    "en": "Terminally ill person",
+    "bn": "জীবনের আশা ছেড়ে দেওয়া রোগীর দোয়া"
+  },
+  {
+    "en": "Prompting the dying (talqin)",
+    "bn": "মুমূর্ষুকে কালিমা স্মরণ করানো"
+  },
+  {
+    "en": "When struck by calamity",
+    "bn": "বিপদে পড়লে (ইন্না লিল্লাহ)"
+  },
+  {
+    "en": "Closing the eyes of the deceased",
+    "bn": "মৃতের চোখ বন্ধ করার দোয়া"
+  },
+  {
+    "en": "Janazah dua for the deceased",
+    "bn": "জানাযায় মৃতের জন্য দোয়া"
+  },
+  {
+    "en": "Janazah dua for a child",
+    "bn": "শিশুর জানাযার দোয়া"
+  },
+  {
+    "en": "Condolence",
+    "bn": "সান্ত্বনা/শোক প্রকাশের দোয়া"
+  },
+  {
+    "en": "Placing the deceased in the grave",
+    "bn": "কবরে রাখার দোয়া"
+  },
+  {
+    "en": "After burial",
+    "bn": "দাফনের পর দোয়া"
+  },
+  {
+    "en": "Visiting graves",
+    "bn": "কবর যিয়ারতের দোয়া"
+  },
+  {
+    "en": "When wind blows",
+    "bn": "বাতাস বইলে দোয়া"
+  },
+  {
+    "en": "Thunder",
+    "bn": "বজ্রপাতের দোয়া"
+  },
+  {
+    "en": "Praying for rain",
+    "bn": "বৃষ্টি চাওয়ার দোয়া"
+  },
+  {
+    "en": "When it rains",
+    "bn": "বৃষ্টি নামলে দোয়া"
+  },
+  {
+    "en": "After rain",
+    "bn": "বৃষ্টির পরের যিকির"
+  },
+  {
+    "en": "Praying for rain to stop",
+    "bn": "বৃষ্টি থামার দোয়া"
+  },
+  {
+    "en": "Seeing the new moon",
+    "bn": "নতুন চাঁদ দেখার দোয়া"
+  },
+  {
+    "en": "Breaking fast (iftar)",
+    "bn": "ইফতারের দোয়া"
+  },
+  {
+    "en": "Before eating",
+    "bn": "খাওয়ার আগের দোয়া"
+  },
+  {
+    "en": "After eating",
+    "bn": "খাওয়ার পরের দোয়া"
+  },
+  {
+    "en": "Guest's dua for the host",
+    "bn": "মেহমানের পক্ষ থেকে মেজবানের জন্য দোয়া"
+  },
+  {
+    "en": "Indirectly asking for food/drink",
+    "bn": "খাবার বা পানীয় চাওয়ার দোয়া"
+  },
+  {
+    "en": "After breaking fast at someone's home",
+    "bn": "কারো বাড়িতে ইফতারের পর দোয়া"
+  },
+  {
+    "en": "Fasting person when food is served",
+    "bn": "রোযাদারকে খাবারে ডাকলে"
+  },
+  {
+    "en": "Fasting person insulted",
+    "bn": "রোযাদারকে কেউ গালি দিলে"
+  },
+  {
+    "en": "First fruits of the season",
+    "bn": "নতুন ফল দেখলে দোয়া"
+  },
+  {
+    "en": "Sneezing",
+    "bn": "হাঁচির দোয়া"
+  },
+  {
+    "en": "Reply to a non-Muslim's sneeze",
+    "bn": "অমুসলিম হাঁচি দিলে জবাব"
+  },
+  {
+    "en": "For the newly married",
+    "bn": "নববিবাহিতের জন্য দোয়া"
+  },
+  {
+    "en": "Marriage / buying an animal",
+    "bn": "বিয়ে ও পশু কেনার দোয়া"
+  },
+  {
+    "en": "Before intimacy",
+    "bn": "স্বামী-স্ত্রীর মিলনের আগের দোয়া"
+  },
+  {
+    "en": "Anger",
+    "bn": "রাগের সময় দোয়া"
+  },
+  {
+    "en": "Seeing someone afflicted",
+    "bn": "বিপদগ্রস্ত কাউকে দেখলে দোয়া"
+  },
+  {
+    "en": "In a gathering",
+    "bn": "মজলিসে বসে দোয়া"
+  },
+  {
+    "en": "Expiation of a gathering",
+    "bn": "মজলিসের কাফফারা"
+  },
+  {
+    "en": "Reply to \"may Allah forgive you\"",
+    "bn": "\"আল্লাহ তোমাকে ক্ষমা করুন\" বললে জবাব"
+  },
+  {
+    "en": "For one who did you a favor",
+    "bn": "উপকারীর জন্য দোয়া"
+  },
+  {
+    "en": "Protection from the Dajjal",
+    "bn": "দাজ্জাল থেকে রক্ষা"
+  },
+  {
+    "en": "Reply to \"I love you for Allah\"",
+    "bn": "\"আল্লাহর জন্য ভালোবাসি\" বললে জবাব"
+  },
+  {
+    "en": "For one who offers you wealth",
+    "bn": "কেউ সম্পদ দিতে চাইলে দোয়া"
+  },
+  {
+    "en": "For one who repaid/lent you",
+    "bn": "ঋণদাতার জন্য দোয়া"
+  },
+  {
+    "en": "Fear of shirk",
+    "bn": "শিরকের ভয়ে দোয়া"
+  },
+  {
+    "en": "Reply to \"barakallahu feek\"",
+    "bn": "\"বারাকাল্লাহু ফীক\" বললে জবাব"
+  },
+  {
+    "en": "Dislike of omens",
+    "bn": "কুলক্ষণ অপছন্দের দোয়া"
+  },
+  {
+    "en": "Riding",
+    "bn": "বাহনে ওঠার দোয়া"
+  },
+  {
+    "en": "Travel",
+    "bn": "সফরের দোয়া"
+  },
+  {
+    "en": "Entering a town",
+    "bn": "শহর বা গ্রামে প্রবেশের দোয়া"
+  },
+  {
+    "en": "Entering the market",
+    "bn": "বাজারে প্রবেশের দোয়া"
+  },
+  {
+    "en": "When the mount stumbles",
+    "bn": "বাহন হোঁচট খেলে দোয়া"
+  },
+  {
+    "en": "Traveler's dua for those staying",
+    "bn": "মুসাফিরের পক্ষ থেকে মুকিমের জন্য দোয়া"
+  },
+  {
+    "en": "Resident's dua for the traveler",
+    "bn": "মুকিমের পক্ষ থেকে মুসাফিরের জন্য দোয়া"
+  },
+  {
+    "en": "Takbir and tasbih while traveling",
+    "bn": "সফরে তাকবীর ও তাসবীহ"
+  },
+  {
+    "en": "Traveler at dawn",
+    "bn": "ভোরে মুসাফিরের দোয়া"
+  },
+  {
+    "en": "Stopping at a place on a journey",
+    "bn": "সফরে কোথাও অবস্থানের দোয়া"
+  },
+  {
+    "en": "Returning from travel",
+    "bn": "সফর থেকে ফেরার যিকির"
+  },
+  {
+    "en": "News that pleases or displeases",
+    "bn": "খুশি বা অপছন্দনীয় কিছু ঘটলে"
+  },
+  {
+    "en": "Virtue of salawat on the Prophet ﷺ",
+    "bn": "নবী ﷺ এর ওপর দরূদের ফযিলত"
+  },
+  {
+    "en": "Spreading salam",
+    "bn": "সালামের প্রসার"
+  },
+  {
+    "en": "Replying to a non-Muslim's greeting",
+    "bn": "অমুসলিমের সালামের জবাব"
+  },
+  {
+    "en": "Hearing a rooster / donkey",
+    "bn": "মোরগ ও গাধার ডাক শুনলে"
+  },
+  {
+    "en": "Dogs barking at night",
+    "bn": "রাতে কুকুরের ডাক শুনলে"
+  },
+  {
+    "en": "For one you insulted",
+    "bn": "যাকে গালি দিয়েছেন তার জন্য দোয়া"
+  },
+  {
+    "en": "When a Muslim is praised",
+    "bn": "কোনো মুসলিমের প্রশংসা করলে"
+  },
+  {
+    "en": "When you are praised",
+    "bn": "নিজের প্রশংসা করা হলে"
+  },
+  {
+    "en": "Talbiyah (Hajj/Umrah)",
+    "bn": "তালবিয়া (হজ্জ/উমরা)"
+  },
+  {
+    "en": "Takbir at the Black Stone",
+    "bn": "হাজরে আসওয়াদে তাকবীর"
+  },
+  {
+    "en": "Between the Yemeni corner and Black Stone",
+    "bn": "রুকনে ইয়ামানী ও হাজরে আসওয়াদের মাঝের দোয়া"
+  },
+  {
+    "en": "Standing on Safa and Marwa",
+    "bn": "সাফা-মারওয়ায় দাঁড়িয়ে দোয়া"
+  },
+  {
+    "en": "Day of Arafah",
+    "bn": "আরাফার দিনের দোয়া"
+  },
+  {
+    "en": "At Mash'ar al-Haram",
+    "bn": "মাশআরুল হারামে যিকির"
+  },
+  {
+    "en": "Takbir when stoning",
+    "bn": "কংকর নিক্ষেপের তাকবীর"
+  },
+  {
+    "en": "Amazement / pleasing news",
+    "bn": "বিস্ময় ও খুশির সময় দোয়া"
+  },
+  {
+    "en": "When something pleasing comes",
+    "bn": "খুশির কিছু ঘটলে করণীয়"
+  },
+  {
+    "en": "Pain in the body",
+    "bn": "শরীরে ব্যথা অনুভব করলে"
+  },
+  {
+    "en": "Fear of the evil eye",
+    "bn": "বদনজরের ভয়ে দোয়া"
+  },
+  {
+    "en": "When afraid",
+    "bn": "ভয় পেলে দোয়া"
+  },
+  {
+    "en": "Slaughtering",
+    "bn": "যবেহ/কুরবানির সময় দোয়া"
+  },
+  {
+    "en": "Repelling devils' plots",
+    "bn": "শয়তানের চক্রান্ত দূর করার দোয়া"
+  },
+  {
+    "en": "Istighfar and repentance",
+    "bn": "ইসতিগফার ও তওবা"
+  },
+  {
+    "en": "Virtue of tasbih, tahmid, tahlil, takbir",
+    "bn": "তাসবীহ-তাহমীদ-তাহলীল-তাকবীরের ফযিলত"
+  },
+  {
+    "en": "How the Prophet ﷺ did tasbih",
+    "bn": "নবী ﷺ কীভাবে তাসবীহ গুনতেন"
+  },
+  {
+    "en": "Good deeds and general etiquette",
+    "bn": "কল্যাণকর আমল ও আদব"
+  }
+]
