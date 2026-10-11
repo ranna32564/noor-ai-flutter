@@ -1,3 +1,4 @@
+
 name: Build Noor AI APK
 
 'on':
@@ -5,3 +6,43 @@ name: Build Noor AI APK
   push:
     branches:
       - main
+
+jobs:
+  build:
+    name: Build Android APK
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout project
+        uses: actions/checkout@v4
+
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+
+      - name: Create Android project if missing
+        run: |
+          if [ ! -d android ]; then
+            flutter create --platforms=android .
+          fi
+
+      - name: Install dependencies
+        run: flutter pub get
+
+      - name: Build release APK
+        run: flutter build apk --release
+
+      - name: Upload APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: Noor-AI-APK
+          path: build/app/outputs/flutter-apk/app-release.apk
+          if-no-files-found: error
